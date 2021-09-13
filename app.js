@@ -13,4 +13,4 @@ setInterval( () =>{
     imgIndex ++;
     slideImg.setAttribute('src', imgUrl);
     console.log(imgUrl);
-}, 2000);
+}, 1000);
